@@ -119,7 +119,7 @@ header nav a:hover{
     box-shadow: 0 0 15px #2e6ceb;
 }
 .img{
-    width: 42vw;
+    width: 11vw;
     margin-right: -20px;
     opacity: 0;
     animation: to-left 1s ease forwards 1s;
